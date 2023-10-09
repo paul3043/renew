@@ -1,0 +1,31 @@
+body {
+    background-color: #3498db; /* 파란색 배경 */
+}
+
+.container {
+    background-color: white; /* 하얀색 배경 */
+    padding: 20px;
+    border-radius: 10px;
+    margin: 150px auto; /* 위아래 중앙 정렬을 위해 수정 */
+    width: 450px;
+    text-align: center; /* 가운데 정렬을 위해 추가 */
+    color: #000000; /* 검은색 폰트 색상 */
+  
+}
+
+.headline {
+   
+}
+
+.image img {
+    width: 200px; /* 이미지 크기를 두 배로 늘림 */
+    height: auto;
+    margin: 10px;
+    display: inline-block; /* 가로 정렬을 위해 추가 */
+    border-radius: 10px;
+}
+
+.mypuppyiscute p {
+    margin: 5px;
+}
+
